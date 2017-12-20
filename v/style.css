@@ -1,0 +1,38 @@
+body {
+	background-color:#ffffff;
+	margin: 0px 0px 0px 10%;
+	
+	/* Text properties */
+	text-align:justify;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#444444;
+	font-size: 14px;
+}
+
+.commontitle {
+	margin: 0px 20px 0px 0px;
+}
+
+.titleblock {
+	background-color:#dd0000;
+	text-align:left;
+	padding:5px 30px 5px 0px;
+	margin: 0px 0px 20px 0px;
+	color:#ffffff;
+	text-align: right;
+}
+
+.titleblock a {
+	color:#ffffff;
+	font-weight:bold;	
+}
+
+a {
+	color:#dd0000;
+	font-weight:bold;	
+}
+
+.commontext {
+	margin: 0px 15% 0px 0px;
+}
+

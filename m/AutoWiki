@@ -1,0 +1,9 @@
+== AutoWiki ==
+
+This is the AutoWiki homepage.
+
+AutoWiki converts a simple collection of texts files into a Wiki. For example, just by adding the word Wiki, no links appear on your webpage. But if you create a page with such name, all words on the complete site will be linked to that page.
+
+You can check the Syntax: AutoWiki uses a markup language to edit its pages.
+
+AutoWiki uses a MVC structure, so you can adapt it easily to any form of templating, just by replacing the simple template on the View directory.
